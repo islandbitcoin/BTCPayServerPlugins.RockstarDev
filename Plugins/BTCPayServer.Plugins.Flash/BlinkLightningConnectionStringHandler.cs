@@ -6,7 +6,7 @@ using BTCPayServer.Lightning;
 using Microsoft.Extensions.Logging;
 using Network = NBitcoin.Network;
 
-namespace BTCPayServer.Plugins.Blink;
+namespace BTCPayServer.Plugins.Flash;
 
 public class BlinkLightningConnectionStringHandler : ILightningConnectionStringHandler
 {

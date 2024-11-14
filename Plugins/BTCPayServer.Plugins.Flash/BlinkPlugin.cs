@@ -5,7 +5,7 @@ using BTCPayServer.Abstractions.Services;
 using BTCPayServer.Lightning;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BTCPayServer.Plugins.Blink
+namespace BTCPayServer.Plugins.Flash
 {
    
     public class BlinkPlugin : BaseBTCPayServerPlugin

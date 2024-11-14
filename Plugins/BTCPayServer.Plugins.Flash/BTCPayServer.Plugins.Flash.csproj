@@ -7,11 +7,11 @@
 
     <!-- Plugin specific properties -->
     <PropertyGroup>
-        <Product>Flash API</Product>
-        <Description>Flash Lightning support</Description>
+        <Product>Flash</Product>
+        <Description>Flash Lightning and BoltCard support</Description>
         <Version>0.0.1</Version>
 <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-        <RootNamespace>BTCPayServer.Plugins.Blink</RootNamespace>
+        <RootNamespace>BTCPayServer.Plugins.Flash</RootNamespace>
     </PropertyGroup>
     <!-- Plugin development properties -->
     <PropertyGroup>
