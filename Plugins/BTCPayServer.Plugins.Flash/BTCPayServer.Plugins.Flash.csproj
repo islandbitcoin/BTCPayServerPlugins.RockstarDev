@@ -9,7 +9,7 @@
     <PropertyGroup>
         <Product>Flash</Product>
         <Description>Flash Lightning and BoltCard support</Description>
-        <Version>0.0.1</Version>
+        <Version>0.0.2</Version>
 <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
         <RootNamespace>BTCPayServer.Plugins.Flash</RootNamespace>
     </PropertyGroup>
